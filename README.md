@@ -1,4 +1,4 @@
-### Hi there, I'm Shivank Chaudhary - aka [ShivankPro] 👋
+### Hi there, I'm Shivank Chaudhary - aka [Alt-Shivam] 👋
 
 ## I'm a Student, Developer, and Learner!!
 
@@ -14,7 +14,6 @@
 [<img align="left" alt="Shivank_1628 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
----
-[youtube]: https://www.youtube.com/channel/UCEZf4j8VSVnkK6IcdJHWCmg
+--
 [instagram]: https://instagram.com/Shivank_1628
 [linkedin]: https://linkedin.com/in/shivank-chaudhary-a67681202
