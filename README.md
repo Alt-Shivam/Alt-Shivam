@@ -11,7 +11,7 @@
 <p align = "left" >
 <img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alt-shivam&" style="float: left; width: 60%; margin-right: 1%; margin-bottom: 0.5em;" />
 </p>
-<img align = "right" src = "https://github.com/Alt-Shivam/Alt-Shivam/blob/main/giphy.gif" width = 320 height = 320 />
+
 <hr>
 <p align="left">
   <i>Languages and Tools:</i>
