@@ -22,5 +22,4 @@
 <p align="center">
 <a href="mailto: shivank1128@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="shivank1128@gmail.com" height="34" width="42" /></a>  
 <a href="https://www.linkedin.com/in/shivank-chaudhary-a67681202/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="shivank-chaudhary-a67681202" height="30" width="40" /></a>
-<a href="https://instagram.com/why_shivamm" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="why_shivamm" height="30" width="30" /></a>
 </p>
