@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋 , I'm Shivank aka Alt-Shivam </h1>
+<h1 align="center">Hi 👋, I'm Shivank aka Alt-Shivam </h1>
 
 - 👨‍💻 I'm an **Open Source Contributor**
 - 🌱 I’m currently learning everything 
