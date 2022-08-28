@@ -7,10 +7,6 @@
 - ⚡ Fun fact: I Love to play football.
 
 
-<p align = "left" >
-<img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alt-shivam&" style="float: left; width: 60%; margin-right: 1%; margin-bottom: 0.5em;" />
-</p>
-
 <hr>
 <p align="left">
   <i>Languages and Tools:</i>
