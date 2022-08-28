@@ -1,10 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Shivank aka Alt-Shivam </h1>
 
-- 👨‍💻 I'm an **Open Source Contributor**
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other **Developers** 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 👨‍💻 I'm a Cloud ☁️ Computing Enthusiast
+- 🌱 Currently working on 5G(Magma Agw) and Edge Networking(eBPF, XDP). 
+- 🥅 2022 Goals: Upgrade to V3.0 of myself.
 - ⚡ Fun fact: I Love to play football.
 
 
