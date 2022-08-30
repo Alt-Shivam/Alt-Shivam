@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shivank aka Alt-Shivam </h1>
 
 - 👨‍💻 I'm a Cloud ☁️ Computing Enthusiast
-- 🌱 Currently working on Edge Networking(eBPF, XDP) and 5G(Magma Agw). 
+- 🌱 Currently working on Edge Networking(eBPF, XDP). 
 - 🥅 2022 Goals: Upgrade to V3.0 of myself.
 - ⚡ Fun fact: I Love to play football.
 
