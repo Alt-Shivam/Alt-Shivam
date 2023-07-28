@@ -1,21 +1,3 @@
 
-<h1 align="center">Hi 👋, I'm Shivank aka Alt-Shivam </h1>
+<h1 align="center">🌱 welcome to my space of open-source</h1>
 
-- 👨‍💻 I'm a Cloud ☁️ Computing Enthusiast
-- 🌱 Currently working on eBPF, XDP. 
-- 🥅 2023 Goals: Upgrade to V3.0 of myself.
-- ⚡ Fun fact: I Love to play football.
-
-
-<hr>
-<p align="left">
-  <i>Languages and Tools:</i>
-<p align="left"> <a href="http://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.openstack.org/" target="_blank"> <img src="https://github.com/Alt-Shivam/Alt-Shivam/blob/main/openstack-1-logo-svg-vector.svg" alt="OpenStack" width="40" height="40"/> </a> <a href="https://helm.sh/" target="_blank"> <img src="https://github.com/Alt-Shivam/Alt-Shivam/blob/main/helm.svg" alt="Helm v3" width="40" height="40"/> </a> <a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/Alt-Shivam/Alt-Shivam/blob/main/58480a44cef1014c0b5e4917.png" alt="Kubernetes" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/Alt-Shivam/Alt-Shivam/blob/main/Moby-logo.png" alt="Docker" width="40" height="40"/> </a> <a href="https://ceph.io/en/" target="_blank"> <img src="https://github.com/Alt-Shivam/Alt-Shivam/blob/main/ceph.png" alt="Ceph" width="40" height="40"/> </a> </p> </p>
-<hr>
-
-<p align="center">
-  <i>Let's connect and chat!.</i>
-<p align="center">
-<a href="mailto: shivank1128@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="shivank1128@gmail.com" height="34" width="42" /></a>  
-<a href="https://www.linkedin.com/in/shivank-chaudhary-a67681202/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="shivank-chaudhary-a67681202" height="30" width="40" /></a>
-</p>
