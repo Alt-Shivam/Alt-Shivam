@@ -1,3 +1,1 @@
-
-<h1 align="center">🌱 welcome to my space of open-source</h1>
-
+### 🌌 Navigating the Cosmos of Code & Connectivity | 🧬 Synthesizing 5G, ORAN, and eBPF into Digital DNA
