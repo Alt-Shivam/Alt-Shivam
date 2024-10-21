@@ -1,1 +1,1 @@
-### 🌌 Navigating the Cosmos of Code & Connectivity | 🧬 Synthesizing 5G, ORAN, and eBPF into Digital DNA
+### 🌌 Navigating the Cosmos of Code & Connectivity | 🧬 Synthesizing AI, 5G, ORAN, and eBPF into Digital DNA
